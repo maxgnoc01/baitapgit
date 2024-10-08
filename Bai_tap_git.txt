@@ -1,0 +1,5 @@
+1. Clone git
+2. Tạo 1 branch mới theo mẫu : BTG_tên
+3. sửa file readme.md theo mẫu + thông tin cá nhân
+4. Đẩy phần vừa thay đổi theo lên branch vừa tạo
+5. Tạo merge request vào branch chính
