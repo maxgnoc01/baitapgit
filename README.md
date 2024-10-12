@@ -1,4 +1,5 @@
 # baitapgit
+
 Ho va Ten: Nguyen TTTTTTTT
 MSSV: GGGGGG
-Chuyen Nganh: DDDDDD
+Chuyen Nganh: DDDDDDAAAAAAA
